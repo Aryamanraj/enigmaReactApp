@@ -1,0 +1,8 @@
+footer{
+    /* margin-top: 7.3%; */
+    background: linear-gradient(101.75deg, #000000 0%, #000000 70.49%, #000000 99.35%);
+    
+    height: 26vh;
+    position: relative;
+    z-index: 1;
+}
